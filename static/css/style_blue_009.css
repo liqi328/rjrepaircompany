@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+/*company name*/
+
+body{}
+.allbg{ background:url(http://stacdn201.ganjistatic1.com/src/app/bang/image/mobel/style_blue_zhuangxiu_009/mobel_allbg.__1330593006__.png);}
+.company-name{line-height:60px;font-size:24px;font-family:"微软雅黑";margin-left:10px;font-weight:normal;color:#4c4c4c; text-shadow:1px 1px #FFF}
+/*company nav*/
+.company-nav{background:url(http://stacdn201.ganjistatic1.com/src/app/bang/image/mobel/style_blue_zhuangxiu_009/mobel_bg_blue.__1330593007__.png) 0 -35px repeat-x;height:40px; }
+.company-nav ul{background:url(http://stacdn201.ganjistatic1.com/src/app/bang/image/mobel/style_blue_zhuangxiu_009/mobel_blue.__1330593010__.png) -135px 0 no-repeat;height:40px;padding-left:10px}
+.company-nav li{float:left;line-height:40px;margin:0 5px;font-size:14px;display:inline; text-align:center;}
+.company-nav .active a{color:#0c6db2; height:40px;background:url(http://stacdn201.ganjistatic1.com/src/app/bang/image/mobel/style_blue_zhuangxiu_009/mobel_navbg.__1330609636__.png) no-repeat;}
+.company-nav a{color:#fff;font-weight:bold; display:block; height:40px;}
+.company-nav a:hover{color:#0c6db2;text-decoration:none; height:40px;background:url(http://stacdn201.ganjistatic1.com/src/app/bang/image/mobel/style_blue_zhuangxiu_009/mobel_navbg.__1330609636__.png) no-repeat;}
+/*The content background color*/
+.mainleft .content,
+.mainright .content{background:#fff;overflow:hidden;zoom:1}
+/*Public title*/
+.title{background:url(http://stacdn201.ganjistatic1.com/src/app/bang/image/mobel/style_blue_zhuangxiu_009/mobel_bg_blue.__1330593007__.png) 0 -80px repeat-x;height:30px;margin-top:10px;line-height:30px;}
+.title .hw{background:url(http://stacdn201.ganjistatic1.com/src/app/bang/image/mobel/style_blue_zhuangxiu_009/mobel_blue.__1330593010__.png) -135px -45px no-repeat;height:30px; border-left:1px solid #e2e2e4;border-right:1px solid #e2e2e4;}
+.title span{color:#0c6db2;font-weight:bold; }
+.title .t-ml{ margin-left:25px;}
+.title .t-mr{ margin-left:15px;}
+.title a{color:#fff}
+.title ul{_margin-top:8px}
+.title li{float:left;margin-left:10px}
+.title .r-bg{width:10px;height:30px;float:right}
+.title li em{width:13px;height:13px;display:inline-block;vertical-align:middle;margin-right:2px}
+.title .hw .fr a{ color:#0d6fb5;}
+.title .ml10{ margin-left:20px;}
+.title .set-i{background:url(http://stacdn201.ganjistatic1.com/src/app/bang/image/mobel/mobel.__1330592831__.png) -105px -35px}
+.title .del-i{background:url(http://stacdn201.ganjistatic1.com/src/app/bang/image/mobel/mobel.__1330592831__.png) -105px -52px}
+.title .s1{background:url(http://stacdn201.ganjistatic1.com/src/app/bang/image/mobel/style_blue_zhuangxiu_009/mobel_blue.__1330593010__.png) -65px 0;width:10px;height:30px;float:left}
+.title .s2{background:url(http://stacdn201.ganjistatic1.com/src/app/bang/image/mobel/mobel.__1330592831__.png);width:142px;height:30px;float:left}
+.title .s2 em{font-size:16px;font-weight:bold;color:#e50000;float:left;width:15px;text-align:center;margin-left:95px;text-shadow:1px 1px #333}
+.title .s3{background:url(http://stacdn201.ganjistatic1.com/src/app/bang/image/mobel/style_blue_zhuangxiu_009/mobel_blue.__1330593010__.png) -80px 0;width:10px;height:30px;float:left}
+.lpn_ctrl_group{top:5px}
+.lpn_ctrl_group a{color:#fff;margin:0 5px}
+.mainright .title .hw{background:none}
+
+/*bottom tab*/
+.service-tab{border-bottom:7px solid #0f7cca;overflow:hidden;zoom:1;padding:0 10px}
+.service-tab li{float:left;}
+.service-tab .c-bg{float:left;height:22px;line-height:22px}
+.service-tab .c-bg a{padding:0 8px;color:#000}
+.service-tab .c-bg a:hover{color:#e50000}
+.service-tab span{display:inline-block}
+.service-tab .active .c-bg{background:url(http://stacdn201.ganjistatic1.com/src/app/bang/image/mobel/style_blue_zhuangxiu_009/mobel_bg_blue.__1330593007__.png) 0 -115px repeat-x;padding:0 10px;color:#fff;}
+.service-tab .active .l-bg{background:url(http://stacdn201.ganjistatic1.com/src/app/bang/image/mobel/style_blue_zhuangxiu_009/mobel_blue.__1330593010__.png) 0 -40px;width:5px;height:22px;float:left;line-height:22px}
+.service-tab .active .r-bg{background:url(http://stacdn201.ganjistatic1.com/src/app/bang/image/mobel/style_blue_zhuangxiu_009/mobel_blue.__1330593010__.png) -10px -40px;width:5px;height:22px;float:left}
+
+
+
+
+
+
+
+
